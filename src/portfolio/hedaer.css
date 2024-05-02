@@ -1,0 +1,17 @@
+.navbar-brand{
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 50px;
+}
+#nav{
+  margin-left:280px;
+}
+.nav-item{
+  margin-left:60px;
+  font-weight:bold;
+  
+}
+.nav-item:hover{
+ background-color: rgb(251, 255, 255);
+
+  transition: background 1.2s;
+}

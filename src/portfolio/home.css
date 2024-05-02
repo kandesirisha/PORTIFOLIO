@@ -1,0 +1,27 @@
+.a{
+    display:flex;
+    justify-content: space-around;
+    margin-top:50px;
+}
+h1{
+    letter-spacing: 2px;
+    text-align: center;
+    
+}
+h2{
+   
+    text-align: center;
+}
+.link{
+    display:flex;
+   justify-content:space-evenly;
+   margin-top:50px;
+}
+button{
+    margin:40px 0 0 90px;
+    width:300px;
+    font-size: 30px;
+}
+.img{
+    border-radius:50px;
+}

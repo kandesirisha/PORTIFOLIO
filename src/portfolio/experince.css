@@ -1,0 +1,35 @@
+
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: 1.2;
+    text-align: center;
+
+    color: #ffffff;
+  }
+  .main{
+display: flex;
+align-items: center;
+justify-content: space-around;
+margin-bottom:100px;
+  }
+    
+ .row1{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top:150px;
+ }
+ .js:hover{
+  width:250px;
+  height:250px;
+ }
+ h1{
+  font-size:40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:darkblue;
+
+ }

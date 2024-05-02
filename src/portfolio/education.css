@@ -1,0 +1,40 @@
+.head{
+    display:flex;
+    align-items:center;
+}
+.main{
+    display:flex;
+    align-items: center;
+
+}
+.ong{
+    margin-left:60px;
+    border:solid 2px grey; 
+    border-radius:100px;
+    margin-right:70px;
+}
+.high{
+    margin-left:60px;
+    border:solid 2px grey; 
+    border-radius:150px;
+    margin-right:20px;
+}
+.edu{
+    margin-left:50px;
+    width:1000px;
+    height:270px;
+margin-top:80px;
+    margin-bottom:20px;
+   
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.edu2 >h3{
+    background-color:burlywood;
+    height:80px;
+    text-align:center;
+ 
+ 
+}
+.edu3>ul{
+    font-size:20px;
+}
